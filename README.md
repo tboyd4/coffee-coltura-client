@@ -1,4 +1,4 @@
-# client
+# Coffee Coltura Client -> Nuxt.js Web App
 
 ## Build Setup
 
