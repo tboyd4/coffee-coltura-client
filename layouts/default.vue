@@ -19,6 +19,7 @@
       >
     </v-app-bar>
     <v-main>
+      <div class="my-10"></div>
       <nuxt />
     </v-main>
 

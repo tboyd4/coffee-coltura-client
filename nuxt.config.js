@@ -5,8 +5,7 @@ export default {
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - client',
-    title: 'client',
+    title: 'Coffee Coltura',
     htmlAttrs: {
       lang: 'en',
     },
